@@ -5,7 +5,7 @@
 
 > 📫 How to reach me: <b><i>o.santxz@proton.me</i></b>
 
-> 😸 Fun fact **I have a cat for 7 years called Bartolomeu and I'm really in love with him.**
+> 😸 Fun fact: **I have a cat for 7 years called Bartolomeu and I'm really in love with him.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
