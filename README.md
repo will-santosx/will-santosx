@@ -1,7 +1,9 @@
 <h1 align="center">Olá, me chamo Willians Santos</h1>
 <h3 align="center">Sou amante de tecnologia e atualmente estudante de desenvolvimento web front-end.</h3>
 
-- 📚 Eu estou atualmente apredendo: **TailwindCSS, TypeScript, VueJS & JavaScript (Intermediário - Curso SoloLearn)**
+- 📚 Eu estou atualmente apredendo: **TailwindCSS, TypeScript, ReactJS**
+
+- 🎓 Certificado JS Intermediário: https://www.sololearn.com/certificates/CC-1WRA54DL
 
 - 👔 Confira meu linkedin: [https://www.linkedin.com/in/willians-dos-santos-212932254/](https://www.linkedin.com/in/willians-dos-santos-212932254/)
 
