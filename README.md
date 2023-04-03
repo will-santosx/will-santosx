@@ -1,23 +1,51 @@
-<h1 align="center">Olá, me chamo Willians Santos</h1>
-<h3 align="center">Sou amante de tecnologia e atualmente estudante de desenvolvimento web front-end.</h3>
+<h1 align="center">
+   Willians Santos
+  <h6 align='center'>DEV. Front-end</h6>
+</h1>
+<h3 align="center">16 anos de idade, muitos sonhos e desenvolvendo minha futura carreira profissional.</h3>
 
-- 📚 Eu estou atualmente apredendo: **TailwindCSS, TypeScript, ReactJS**
+<br>
 
-- 🎓 Certificado JS Intermediário: https://www.sololearn.com/certificates/CC-1WRA54DL
+<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='16' height='16'> Confira meu linkedin: [https://www.linkedin.com/in/willians-dos-santos-212932254/](https://www.linkedin.com/in/willians-dos-santos-212932254/)
 
-- 👔 Confira meu linkedin: [https://www.linkedin.com/in/willians-dos-santos-212932254/](https://www.linkedin.com/in/willians-dos-santos-212932254/)
+## Cursos
 
-- 📫 Contato: **o.santxz@proton.me**
+### Cursos completos
 
-- 🎈 Fato curioso: **Meu primeiro contato com programação, foi com a linguagem .Lua aos meus 11 anos de idade**
+  1. Inglês 1 Básico (EF English - Certificado) ✅
 
-<h3 align="left">📱 | Redes:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/willians-dos-santos-212932254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willians-dos-santos-212932254/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/leao.willians/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leao.willians" height="30" width="40" /></a>
+  2. Lógica de programação (Curso em vídeo) ✅
+
+  3. <a href='https://www.sololearn.com/certificates/CC-1WRA54DL' target='blank'>JavaSript Intermediário (Sololearn - Certificado)</a> ✅
+
+### Cursos em andamento
+
+  1. ReactJS + Redux (Sololearn) 📚
+
+  2. Inglês 2 Básico (EF English) 📚
+
+## Contato
+
+- > <img src='https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-email.png/@@images/image.png' width='16' height='16'/> Email: **o.santxz@proton.me**
+
+- > <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" width="16" height="16"/> Instagram: **@leao.willians**
+
+## Tecnologias / Ferramentas
+
+<p float='left'>
+  <img onclick="return false;" src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
+  <img onclick="return false;" src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
+  <img onclick="return false;" src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
+  <img onclick="return false;" src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
+  <img onclick="return false;" src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
+  <img onclick="return false;" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
+  <img onclick="return false;" src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+  <img onclick="return false;" src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' />
+  <img onclick="return false;" src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
 </p>
 
-<h3 align="left">⚙ | Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p><br>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=will-santosx&theme=dark" alt="will-santosx" /></p>
+<p float='left' align='center'>
+  <img align='center' src='https://github-readme-stats.vercel.app/api?username=will-santosx&theme=gotham'/>
+</p>
