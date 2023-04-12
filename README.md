@@ -2,7 +2,7 @@
    Willians Santos
   <h6 align='center'>DEV. Front-end</h6>
 </h1>
-<h3 align="center">16 anos de idade, muitos sonhos e desenvolvendo minha futura carreira profissional.</h3>
+<h3 align="center">Jovem com muitos sonhos e desenvolvendo minha futura carreira profissional.</h3>
 
 <br>
 
